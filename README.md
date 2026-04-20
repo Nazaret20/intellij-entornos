@@ -6,11 +6,4 @@ Aplicación de consola en Java para practicar Git y GitHub.
 - Git
 ## Ejecución
 Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
-## Nota temporal
-Pendiente documentar la nueva mejora en Main
-## Uso del programa
-1. Ejecuta MiniInventario.
-2. Elige entre añadir, listar o buscar productos.
-3. La nueva opción de búsqueda permite localizar un producto por nombre.
-4. Si el producto existe, el sistema lo indica por pantalla.
-## Nuevos cambios para la pr
+Versión definitiva
